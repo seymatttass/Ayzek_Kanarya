@@ -1,6 +1,6 @@
 # 🌱 Ayzek Kanarya: Sağlıklı ve Hasta Bitki Sınıflandırma Projesi
 
-Bu depo, **Ayzek Kanarya** takımı olarak katıldığımız **TEKNOFEST 2024 2242 Üniversite Öğrencileri Araştırma Yarışması** için geliştirdiğimiz projeye ait kodları ve dokümantasyonu içermektedir. 🌾 Projemiz, sağlıklı ve hasta bitki görsellerini analiz ederek hasta bitkileri tespit etmeyi ve sınıflandırmayı amaçlamaktadır.
+Bu depo, **Ayzek Kanarya** takımı olarak katıldığımız **TEKNOFEST 2024 2242 Üniversite Öğrencileri Araştırma Yarışması** için geliştirdiğimiz projeye ait kodları ve dokümantasyonu içermektedir. Bitki projemiz, sağlıklı ve hasta bitki görsellerini analiz ederek hasta bitkileri tespit etmeyi ve sınıflandırmayı amaçlamaktadır.
 
 ---
 
