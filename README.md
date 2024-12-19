@@ -54,7 +54,7 @@ Projede kullanılan ana teknolojiler şunlardır:
 
 ---
 
-## 🖥 Çalıştırma Talimatları
+##  Çalıştırma Talimatları
 Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
 1.  Depoyu klonlayın:  
